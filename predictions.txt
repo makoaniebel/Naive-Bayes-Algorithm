@@ -1,0 +1,6 @@
+predicted probability of being prescribed contact-lenses:
+none: 0.6842 |soft: 0.2105 |hard: 0.1053 |
+none: 0.6842 |soft: 0.2105 |hard: 0.1053 |
+none: 0.6842 |soft: 0.2105 |hard: 0.1053 |
+none: 0.6842 |soft: 0.2105 |hard: 0.1053 |
+none: 0.6842 |soft: 0.2105 |hard: 0.1053 |

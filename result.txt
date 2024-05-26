@@ -1,0 +1,6 @@
+confusion matrix:
+% : defaultdict(<class 'int'>, {'predicted probability of being prescribed contact-lenses:': 2})
+% 24 instances : defaultdict(<class 'int'>, {'predicted probability of being prescribed contact-lenses:': 1})
+none : defaultdict(<class 'int'>, {'predicted probability of being prescribed contact-lenses:': 15})
+soft : defaultdict(<class 'int'>, {'predicted probability of being prescribed contact-lenses:': 5})
+hard : defaultdict(<class 'int'>, {'predicted probability of being prescribed contact-lenses:': 4})

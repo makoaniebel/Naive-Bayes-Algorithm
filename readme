@@ -1,0 +1,4 @@
+1. naivebayes.py can be run by running  
+"python3 naivebayes.py sampletraining.arff sampleinput.arff predictions.txt" in the terminal   
+
+2. evaluate.py can be run by running "python3 evaluate.py contact-lenses.arff" in the terminal
